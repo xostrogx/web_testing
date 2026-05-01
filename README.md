@@ -6,7 +6,7 @@ ________________________________
 
 <a href="https://drive.google.com/file/d/1U-Li7QPN4jR2GBu3Ngjf7AnhnkYo1QFN/view?usp=sharing">[~/web_testing/test_cases]</a>  | Создание тест кейсов в QASE
 
-<a href="https://drive.google.com/file/d/1U-Li7QPN4jR2GBu3Ngjf7AnhnkYo1QFN/view?usp=sharing">[~/web_testing/test_run]</a>  | Запусков тест кесов в QASE
+<a href="https://drive.google.com/file/d/1U-Li7QPN4jR2GBu3Ngjf7AnhnkYo1QFN/view?usp=sharing">[~/web_testing/test_run]</a>  | Запусков тест кейсов в QASE
 
 <a href="https://drive.google.com/file/d/1gqJ4wW3JFazWXsn2A3i5QYLiyM6KU0w7/view?pli=1">[~/web_testing/bug_report]</a>  | Создание багрепортов в Jira
 
