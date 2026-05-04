@@ -1,6 +1,6 @@
 ### Тестирование интернет-магазина
 
-Я протестировал интернет-магазин  https://intern.demoshopping.ru/ и подготовил различные виды тестовой документации:
+Я протестировал интернет-магазин  https://intern.demoshopping.ru/ и подготовил следующие виды тестовой документации:
 ________________________________
 <a href="https://docs.google.com/spreadsheets/d/1zndUucmytAnTqs2XCV4E_JrpNtvHnW-L-mUXnsZtXu8/edit?usp=sharing">[~/web_testing/checklist]</a>  | Создание чеклиста по заданным юзер стори 
 
